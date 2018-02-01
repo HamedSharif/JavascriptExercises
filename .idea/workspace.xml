@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86a46ef9-9475-4a27-8fa7-fa3af08c8a86" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/index.js" afterPath="$PROJECT_DIR$/dom-exercises/scripts/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/index.html" afterPath="$PROJECT_DIR$/dom-exercises/views/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dom-exercises/scripts/profilebild.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dom-exercises/scripts/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dom-exercises/views/build-with-js.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dom-exercises/scripts/index.js" afterPath="$PROJECT_DIR$/dom-exercises/scripts/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dom-exercises/views/index.html" afterPath="$PROJECT_DIR$/dom-exercises/views/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,22 +20,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dom-exercises/views/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dom-exercises/scripts/build.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dom-exercises/scripts/index.js">
+      <file leaf-file-name="img_pulpit.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dom-exercises/scripts/img_pulpit.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profilebild.PNG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dom-exercises/scripts/profilebild.PNG">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build-with-js.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dom-exercises/views/build-with-js.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            <state relative-caret-position="144">
+              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -58,8 +75,12 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/views/index.html" />
         <option value="$PROJECT_DIR$/scripts/index.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/index.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/index.html" />
         <option value="$PROJECT_DIR$/dom-exercises/views/index.html" />
         <option value="$PROJECT_DIR$/dom-exercises/scripts/index.js" />
+        <option value="$PROJECT_DIR$/dom-exercises/views/build-with-js.html" />
+        <option value="$PROJECT_DIR$/dom-exercises/scripts/build.js" />
       </list>
     </option>
   </component>
@@ -69,9 +90,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="942" />
-    <option name="width" value="978" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1006" />
+    <option name="width" value="914" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
@@ -89,33 +110,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="javascriptExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavascriptExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavascriptExercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="javascriptExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavascriptExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavascriptExercises" type="462c0819:PsiDirectoryNode" />
               <item name="dom-exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavascriptExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavascriptExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="dom-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Mina dokument" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\JavascriptExercises\dom-exercises\scripts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\JavascriptExercises\dom-exercises\scripts" />
       <recent name="C:\Users\Lenovo\Desktop\JavascriptExercises\dom-exercises" />
       <recent name="C:\Users\Lenovo\Desktop\javascriptExercises\scripts" />
       <recent name="C:\Users\Lenovo\Desktop\javascriptExercises\views" />
@@ -143,7 +175,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517267801000</updated>
-      <workItem from="1517267804140" duration="9049000" />
+      <workItem from="1517267804140" duration="16111000" />
+      <workItem from="1517385682042" duration="25615000" />
     </task>
     <task id="LOCAL-00001" summary="chang color&amp;size">
       <created>1517270269160</created>
@@ -156,10 +189,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9049000" />
+    <option name="totallyTimeSpent" value="41726000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="1006" y="0" width="914" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -172,11 +205,11 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -197,18 +230,100 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dom-exercises/scripts/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding />
+        <state relative-caret-position="462">
+          <caret line="50" column="3" lean-forward="false" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+          <folding>
+            <element signature="e#224#485#0" expanded="false" />
+            <element signature="e#487#847#0" expanded="false" />
+            <element signature="e#851#1298#0" expanded="false" />
+            <element signature="e#1299#1301#0" expanded="false" />
+            <marker date="1517477046226" expanded="true" signature="1373:1384" ph="..." />
+            <marker date="1517477046226" expanded="true" signature="1431:1444" ph="..." />
+            <marker date="1517477046226" expanded="true" signature="1431:1517" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dom-exercises/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="798">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="e#1033#1106#0" expanded="false" />
+            <element signature="e#1109#1222#0" expanded="false" />
+            <element signature="e#1224#1347#0" expanded="false" />
+            <element signature="e#1350#1607#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom-exercises/scripts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding>
+            <element signature="e#224#485#0" expanded="false" />
+            <element signature="e#487#847#0" expanded="false" />
+            <element signature="e#851#1298#0" expanded="false" />
+            <element signature="e#1299#1301#0" expanded="false" />
+            <marker date="1517477046226" expanded="true" signature="1373:1384" ph="..." />
+            <marker date="1517477046226" expanded="true" signature="1431:1444" ph="..." />
+            <marker date="1517477046226" expanded="true" signature="1431:1517" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom-exercises/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="e#1033#1106#0" expanded="false" />
+            <element signature="e#1109#1222#0" expanded="false" />
+            <element signature="e#1224#1347#0" expanded="false" />
+            <element signature="e#1350#1607#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom-exercises/views/build-with-js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom-exercises/scripts/profilebild.PNG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom-exercises/scripts/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom-exercises/scripts/img_pulpit.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
