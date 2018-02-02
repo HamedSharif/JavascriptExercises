@@ -91,6 +91,30 @@ remove.addEventListener('click', function() {
         let target = link.getAttribute("target");
 
 
+
+
+
+
+        let button4 = document.getElementById("btn1");
+        let button5 = document.getElementById("btn5");
+        let table = document.getElementById("table")
+
+
+button4.addEventListener('click', function() {
+    let newRow = table.insertRow(0);
+    let cell1 = newRow.insertCell(0);
+    let cell2 = newRow.insertCell(1);
+    cell1.innerHTML = "5";
+    cell2.innerHTML = "55";
+});
+
+        button5.addEventListener('click', function () {
+table.deleteRow(0)
+        })
+
+
+
+
         button.addEventListener('click', function () {
             p.style.color = "blue";
             p.style.fontSize = "33px";
