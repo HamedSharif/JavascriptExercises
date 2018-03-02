@@ -32,6 +32,33 @@ button.addEventListener('click', function() {
 
 */
 
+// Add p and h1 to the html
+
+let paragraph = document.createElement("p");
+let text = document.createTextNode("My paragraph text");
+
+
+let header = document.createElement("h1");
+let headertext= document.createTextNode("this header text");
+let image = document.createElement("img");
+ image.setAttribute("src", "img_pulpit.jpg")
+
+
+header.appendChild(headertext);
+paragraph.appendChild(text);
+
+
+
+
+
+let existingDiv = document.querySelector("div");
+existingDiv.appendChild(header);
+existingDiv.appendChild(paragraph);
+existingDiv.appendChild(image);
+
+
+
+document.write(existingDiv.innerHTML);
 
 
 /*
